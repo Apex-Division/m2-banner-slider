@@ -1,21 +1,17 @@
 # m2-banner-slider
-Inspired from https://github.com/emizentech/magento2-banner-slider
+Copied from https://github.com/emizentech/magento2-banner-slider
 
-<h3>Features:</h3>
+<h3>Notes:</h3>
 <ul>
-<li>Widget : Can insert anywhere in magento via Widget</li>
-<li>Responsive Banner Slider</li>
-<li>jQuery</li>
-<li>Has Option to fix width</li>
-<li>Can Add any number of Slider Images</li>
-<li>Can Assign External Links</li>
-<li>Option to Assign Target (Self / New Page)</li>
+<li>Mainly changed composer.json to make it compatible with Magento 2.0.5</li>
+<li>Even the namespace is kept same</li>
 </ul>
 
 <h2>Composer Installation Instructions</h2>
 Add GIT Repository to composer
 <pre>
-composer config repositories.emizentech-magento2-banner-slider vcs https://github.com/emizentech/magento2-banner-slider/
+composer config repositories.apexdivision-magento2-banner-slider vcs https://github.com/Apex-Division/artee-m2-theme/m2-banner-slider
+/
 </pre>
 
 Since this package is in a development stage, you will need to change the minimum-stability as well to the composer.json file: -
@@ -26,7 +22,7 @@ Since this package is in a development stage, you will need to change the minimu
 After that, need to install this module as follows:
 <pre>
   composer require magento/magento-composer-installer
-  composer require emizentech/banner
+  composer require apexdivision/apexdivision-magento2-banner-slider
 </pre>
 
 
