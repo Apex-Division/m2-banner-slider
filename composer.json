@@ -20,5 +20,13 @@
     "license": [
         "OSL-3.0",
         "AFL-3.0"
-    ]
+    ],
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Emizentech/Banner"
+            ]
+        ]
+    }
 }
