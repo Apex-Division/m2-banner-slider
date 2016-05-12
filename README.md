@@ -10,8 +10,7 @@ Copied from https://github.com/emizentech/magento2-banner-slider
 <h2>Composer Installation Instructions</h2>
 Add GIT Repository to composer
 <pre>
-composer config repositories.apexdivision-magento2-banner-slider vcs https://github.com/Apex-Division/artee-m2-theme/m2-banner-slider
-/
+composer config repositories.apexdivision-magento2-banner-slider vcs https://github.com/Apex-Division/artee-m2-theme/m2-banner-slider/
 </pre>
 
 Since this package is in a development stage, you will need to change the minimum-stability as well to the composer.json file: -
