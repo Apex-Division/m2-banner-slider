@@ -9,9 +9,9 @@
 						<label translate="true">Group</label>
 						<description translate="true">All banner images will be included from Selected Group.</description>
 					</parameter>
-                    <parameter name="sliderwidth" xsi:type="text"  visible="true" sort_order="2" value="250">
+                    <parameter name="sliderwidth" xsi:type="text"  visible="true" sort_order="2">
 						<label translate="true">Slider Width</label>
-						<description translate="true"><strong>Only Enter in case you want fixed Width Sider</strong>Enter Slider width Ex. 250 , do not suffix with px</description>
+						<description translate="true">Just Number, no prefix</description>
                     </parameter>
                 </parameters>
         </widget>

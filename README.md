@@ -3,7 +3,8 @@ Copied from https://github.com/emizentech/magento2-banner-slider
 
 <h3>Notes:</h3>
 <ul>
-<li>Mainly changed composer.json to make it compatible with Magento 2.0.5</li>
+<li>Modified composer.json to make it compatible with Magento 2.0.5</li>
+<li>Modified widget.xml to prevent admin console errors</li>
 <li>Even the namespace is kept same</li>
 </ul>
 
