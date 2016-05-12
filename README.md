@@ -1,4 +1,5 @@
-# magento2-banner-slider
+# m2-banner-slider
+Inspired from https://github.com/emizentech/magento2-banner-slider
 
 <h3>Features:</h3>
 <ul>
@@ -58,5 +59,3 @@ to Enable this module you need to follow these steps:
 	<pre>bin/magento setup:di:compile</pre>
 </li>
 </ul>
-
-
