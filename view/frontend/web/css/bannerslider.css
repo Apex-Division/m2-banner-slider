@@ -45,3 +45,14 @@
 	border-radius: 2px;
 }
 .bannerslider .pager li.active a span { background: #404040; }
+
+
+/* Modified @ Apex Division */
+.bannerslider ul.slides{margin-bottom:0rem!important;}
+.bannerslider .pager li a{padding:4px!important;}
+.bannerslider .pager li a span{border-radius:10px!important;}
+.bannerslider .pager li a, .bannerslider .pager li a span{height:10px!important;width:10px!important;}
+.bannerslider .pager li a span{background:#646464!important;}
+.bannerslider .pager li.active a span{background:#990000!important;}
+.bannerslider ul.slides ul.pager{margin-bottom:0rem!important;}
+.bannerslider ul.slides ul.pager li{margin-top:1rem!important;}
